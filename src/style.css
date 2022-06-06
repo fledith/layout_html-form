@@ -1,5 +1,5 @@
 /* styles go here */
-.inputs-block {
+.input-block {
   margin-bottom: 20px;
 }
 
@@ -9,6 +9,5 @@
 }
 
 .input-row:last-child {
-  display: block;
   margin-bottom: 0;
 }
